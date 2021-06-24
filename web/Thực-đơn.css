@@ -1,0 +1,115 @@
+.u-section-1 {
+  background-image: none;
+  min-height: 69px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Alata;
+  font-size: 1.875rem;
+  width: 152px;
+  margin: 10px auto 0;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 40px;
+  width: 40px;
+  background-image: none;
+  margin: -44px auto 0 calc(((100% - 1140px) / 2) + -54px);
+}
+
+.u-section-1 .u-form-1 {
+  height: 66px;
+  margin-top: -53px;
+  margin-bottom: 0;
+  margin-left: calc(((100% - 1140px) / 2) + 833px);
+  width: 387px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  background-image: none;
+  font-size: 0.875rem;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(255, 255, 255) !important;
+}
+
+.u-section-1 .u-btn-2 {
+  font-family: Alata;
+  border-style: none;
+  font-size: 1.125rem;
+  margin: -47px auto 20px calc(((100% - 1140px) / 2));
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-1 .u-icon-1 {
+    color: rgb(1, 46, 82) !important;
+    margin-left: calc(((100% - 940px) / 2) + -54px);
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: calc(((100% - 940px) / 2) + 553px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-bottom: 48px;
+    margin-left: calc(((100% - 940px) / 2));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-icon-1 {
+    margin-left: calc(((100% - 720px) / 2) + -54px);
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: calc(((100% - 720px) / 2) + 333px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 720px) / 2));
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-icon-1 {
+    margin-left: calc(((100% - 540px) / 2) + -54px);
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-left: calc(((100% - 540px) / 2) + 153px);
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-bottom: 29px;
+    margin-left: calc(((100% - 540px) / 2));
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    margin-left: calc(((100% - 340px) / 2) + -54px);
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+    margin-left: calc(((100% - 340px) / 2));
+  }
+
+  .u-section-1 .u-btn-2 {
+    margin-left: calc(((100% - 340px) / 2));
+  }
+}.u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 588px;
+}
